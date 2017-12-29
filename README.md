@@ -14,7 +14,7 @@ then:
 `$ npm run dev` //for live development  
 `$ npm run build` //for deploying into wordpress
 
-##Features
+## Features
 
 - vue-cli
 - vuex
