@@ -7,6 +7,7 @@ This is theme for wordpress based on vue-cli webpack template
 Just install it like any other theme in your themes folder. Then do:
 
 `$ cd vue-app`  
+Make sure you have the right WP_API_URL setted in config/dev.env.js  
 `$ npm install`
 
 then:
