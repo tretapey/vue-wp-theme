@@ -4,5 +4,5 @@ const prodEnv = require('./prod.env')
 
 module.exports = merge(prodEnv, {
   NODE_ENV: '"development"',
-  WP_API_URL: '"http://localhost:8888/wp-json/wp/v2/"'
+  WP_API_URL: '"http://localhost:8888/vue-theme-dev/wp-json/wp/v2/"'
 })
